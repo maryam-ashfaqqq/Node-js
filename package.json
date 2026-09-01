@@ -1,0 +1,16 @@
+{
+  "name": "node-2026",
+  "version": "1.0.0",
+  "description": "node js practice",
+  "license": "ISC",
+  "author": "Maryam Ashfaq",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
