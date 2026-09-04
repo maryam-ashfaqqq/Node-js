@@ -2,6 +2,14 @@
   "name": "node-2026",
   "version": "1.0.0",
   "description": "node js practice",
+  "homepage": "https://github.com/maryam-ashfaqqq/Node-js#readme",
+  "bugs": {
+    "url": "https://github.com/maryam-ashfaqqq/Node-js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maryam-ashfaqqq/Node-js.git"
+  },
   "license": "ISC",
   "author": "Maryam Ashfaq",
   "type": "commonjs",

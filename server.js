@@ -10,7 +10,7 @@ http.createServer((req , resp)=>{
 resp.end("Maryam");
 }).listen(4800);
 
-// console.log('server');
+console.log('server');
 
 http.createServer((req , resp)=>{
 

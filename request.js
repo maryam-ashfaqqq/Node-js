@@ -13,3 +13,4 @@ if (req.url == "/home")
 resp.write("Other")
 resp.end();
 }).listen(4100);
+console.log('request');
